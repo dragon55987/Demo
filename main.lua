@@ -12,5 +12,6 @@
 
 local background = display.newImage( "world.jpg", display.contentCenterX, display.contentCenterY )
 
+
 local myText = display.newText( "Hello, abcd!", display.contentCenterX, display.contentWidth / 4, native.systemFont, 40 )
-myText:setFillColor( 1, 110/255, 110/255 )
+myText:setFillColor( 1, 110/255, 110/255 )
